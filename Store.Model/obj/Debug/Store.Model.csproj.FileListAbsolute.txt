@@ -1,0 +1,4 @@
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Model\bin\Debug\Store.Model.dll
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Model\bin\Debug\Store.Model.pdb
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Model\obj\Debug\Store.Model.dll
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Model\obj\Debug\Store.Model.pdb

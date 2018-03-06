@@ -1,0 +1,11 @@
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\bin\Debug\Store.Service.dll
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\bin\Debug\Store.Service.pdb
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\bin\Debug\Store.Data.dll
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\bin\Debug\Store.Model.dll
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\bin\Debug\EntityFramework.dll
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\bin\Debug\Store.Data.pdb
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\bin\Debug\Store.Model.pdb
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\bin\Debug\EntityFramework.xml
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\obj\Debug\Store.Service.csprojResolveAssemblyReference.cache
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\obj\Debug\Store.Service.dll
+C:\Users\vikas.hooda\Downloads\mvcarchitecture-master\mvcarchitecture-master\Store.Service\obj\Debug\Store.Service.pdb
